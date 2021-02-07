@@ -20,7 +20,7 @@ $ pip install nltk
 
 # Run the website
 
-Open the website path in cmd and run following command:
+Go to this website's directory and run the following command:
 
 ```
 $ flask run

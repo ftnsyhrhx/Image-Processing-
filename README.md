@@ -17,3 +17,16 @@ Install with pips:
 ```
 $ pip install nltk 
 ```
+
+# Run the website
+
+Open the website path in cmd run followinf command:
+
+```
+$ flask run
+```
+
+Example path:
+```
+C:\Users\HP\Desktop\Website->flask run
+```

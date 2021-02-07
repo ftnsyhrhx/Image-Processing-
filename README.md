@@ -20,13 +20,13 @@ $ pip install nltk
 
 # Run the website
 
-Open the website path in cmd run followinf command:
+Open the website path in cmd and run following command:
 
 ```
 $ flask run
 ```
 
-Example path:
+Example:
 ```
 C:\Users\HP\Desktop\Website->flask run
 ```

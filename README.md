@@ -1,4 +1,4 @@
-# Install Website Packages 
+# Website Packages Installation
 
 Install with pips:
 
@@ -10,9 +10,9 @@ $ pip install flask-bcrypt
 $ pip install flask-login
 $ pip install Pillow
 ```
-# Install NLP Packages
+# NLP Packages Installation
 
-
+Install with pips:
 
 ```
 pip install nltk 

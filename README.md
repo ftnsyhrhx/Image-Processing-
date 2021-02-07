@@ -15,5 +15,5 @@ $ pip install Pillow
 Install with pips:
 
 ```
-pip install nltk 
+$ pip install nltk 
 ```
